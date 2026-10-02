@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+pydantic
+scikit-learn
+pandas
+numpy
+joblib
+playwright
+selenium
